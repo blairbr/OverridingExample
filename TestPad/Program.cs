@@ -8,29 +8,17 @@ namespace TestPad
     {
         static void Main(string[] args)
         {
-            double? max;
-            List<int?> numberList = new List<int?>() { };
 
-            try
-            {
-                max = CalculateMaxNumber(numberList);
-                Console.WriteLine($"The max is " + max);
-            }
-            catch (Exception e) {
-                Console.WriteLine($"Exception thrown: {e.Message}");
-            }
-        }
+            Person blair = new Person();
+            Cat sputnik = new Cat();
+            Animal animal = new Animal();
 
-        private static double? CalculateMaxNumber(List<int?> numberList)
-        {
-            double? max;
-            if (numberList.Count == 0)
-            {
-                throw new Exception("Numberlist did not contain any items");
-            }
-
-            max = numberList.Max();
-            return max;
+            Console.WriteLine("Now feeding cat.");
+            blair.FeedCat(sputnik);
+            Console.WriteLine("Now feeding Sputnik as an animal.");
+            blair.FeedAnimal(sputnik);
+            Console.WriteLine("Now feeding Animal as an animal");
+            blair.FeedAnimal(animal);
         }
     }
 }

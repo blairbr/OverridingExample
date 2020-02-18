@@ -4,7 +4,6 @@ C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\TestPad.runt
 C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\TestPad.runtimeconfig.dev.json
 C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\TestPad.dll
 C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\TestPad.pdb
-C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\TestPad.csprojAssemblyReference.cache
 C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\TestPad.AssemblyInfoInputs.cache
 C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\TestPad.AssemblyInfo.cs
 C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\TestPad.dll

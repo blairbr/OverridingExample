@@ -1,0 +1,11 @@
+C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\OverridingExample.exe
+C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\OverridingExample.deps.json
+C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\OverridingExample.runtimeconfig.json
+C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\OverridingExample.runtimeconfig.dev.json
+C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\OverridingExample.dll
+C:\Users\Blair\source\repos\TestPad\TestPad\bin\Debug\netcoreapp3.1\OverridingExample.pdb
+C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\OverridingExample.csprojAssemblyReference.cache
+C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\OverridingExample.AssemblyInfoInputs.cache
+C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\OverridingExample.AssemblyInfo.cs
+C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\OverridingExample.dll
+C:\Users\Blair\source\repos\TestPad\TestPad\obj\Debug\netcoreapp3.1\OverridingExample.pdb

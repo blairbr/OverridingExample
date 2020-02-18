@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Blair\\source\\repos\\TestPad\\TestPad\\TestPad.csproj",
-      "projectName": "TestPad",
-      "projectPath": "C:\\Users\\Blair\\source\\repos\\TestPad\\TestPad\\TestPad.csproj",
+      "projectUniqueName": "C:\\Users\\Blair\\source\\repos\\OverridingExample\\TestPad\\OverridingExample.csproj",
+      "projectName": "OverridingExample",
+      "projectPath": "C:\\Users\\Blair\\source\\repos\\OverridingExample\\TestPad\\OverridingExample.csproj",
       "packagesPath": "C:\\Users\\Blair\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Blair\\source\\repos\\TestPad\\TestPad\\obj\\",
+      "outputPath": "C:\\Users\\Blair\\source\\repos\\OverridingExample\\TestPad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Blair\\AppData\\Roaming\\NuGet\\NuGet.Config",
